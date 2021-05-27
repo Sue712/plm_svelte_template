@@ -43,7 +43,6 @@
     "@testing-library/svelte": "^3.0.0",
     "@types/chai": "^4.2.13",
     "@types/snowpack-env": "^2.3.2",
-    "@web/test-runner": "^0.9.7",
     "autoprefixer": "^10.0.4",
     "axios": "^0.21.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
