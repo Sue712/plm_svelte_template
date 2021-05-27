@@ -9,7 +9,7 @@
 				<div class="row align-items-center">
 					<div class="col-12 col-lg">
 						<h3 style="letter-spacing: 2px;">
-							Start Planning your New Dream Home with us
+							Start Planning your
 						</h3>
 						<span
 							>We strive to provide Our Customers with Top Notch
