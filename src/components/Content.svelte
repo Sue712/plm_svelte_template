@@ -8,9 +8,7 @@
 			<div class="container clearfix">
 				<div class="row align-items-center">
 					<div class="col-12 col-lg">
-						<h3 style="letter-spacing: 2px;">
-							Start Planning your
-						</h3>
+						<h3 style="letter-spacing: 2px;">Stadfdfs</h3>
 						<span
 							>We strive to provide Our Customers with Top Notch
 							Support to make their Theme</span
